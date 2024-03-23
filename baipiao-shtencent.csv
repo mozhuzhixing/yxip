@@ -1,0 +1,752 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,国家,IP类型,网络延迟,下载速度
+8.210.66.190,2087,true,HKG,Asia Pacific,Hong Kong,HK,中转,34 ms,13928 kB/s
+8.210.66.190,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,36 ms,11295 kB/s
+8.222.131.102,2087,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,10749 kB/s
+8.219.142.229,2083,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,10727 kB/s
+8.222.147.203,2087,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,10709 kB/s
+8.222.180.86,2083,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,10565 kB/s
+8.219.242.208,2096,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,10463 kB/s
+8.222.244.192,8443,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,10210 kB/s
+8.219.77.222,2087,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,10191 kB/s
+8.219.142.191,2087,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,9920 kB/s
+8.222.229.102,2053,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,9690 kB/s
+8.222.147.203,2053,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,9635 kB/s
+8.222.154.227,8443,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,9623 kB/s
+8.222.205.210,443,true,SIN,Asia Pacific,Singapore,SG,中转,183 ms,9618 kB/s
+8.222.144.219,2087,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,9592 kB/s
+8.219.122.55,2053,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,9537 kB/s
+8.222.240.47,2096,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,9439 kB/s
+8.222.144.219,2083,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,9342 kB/s
+47.245.94.144,2096,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,9327 kB/s
+8.219.199.220,2096,true,SIN,Asia Pacific,Singapore,SG,中转,219 ms,9198 kB/s
+8.210.66.190,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,38 ms,8743 kB/s
+8.219.199.220,2053,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,8672 kB/s
+8.222.249.190,2083,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,8614 kB/s
+8.219.122.96,2053,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,8593 kB/s
+8.219.60.130,2096,true,SIN,Asia Pacific,Singapore,SG,中转,212 ms,8587 kB/s
+8.219.228.30,2083,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,8520 kB/s
+8.219.53.142,2053,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,8421 kB/s
+47.245.118.197,2053,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,8156 kB/s
+8.222.168.24,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,7892 kB/s
+8.222.240.47,8443,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,7751 kB/s
+8.222.212.116,2053,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,7546 kB/s
+8.219.200.145,2096,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,7461 kB/s
+8.222.190.225,8443,true,SIN,Asia Pacific,Singapore,SG,中转,184 ms,7380 kB/s
+8.222.167.147,2087,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,7366 kB/s
+8.222.144.50,2087,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,7204 kB/s
+8.222.238.141,8443,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,7176 kB/s
+8.222.249.190,2096,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,7136 kB/s
+8.219.72.50,2053,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,7117 kB/s
+8.219.147.58,8443,true,SIN,Asia Pacific,Singapore,SG,中转,188 ms,7051 kB/s
+47.245.113.12,2083,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,6975 kB/s
+8.219.77.222,8443,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,6908 kB/s
+8.222.221.197,2087,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,6391 kB/s
+8.219.153.44,2096,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,6277 kB/s
+8.222.155.242,2053,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,6269 kB/s
+8.222.224.163,2053,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,6135 kB/s
+8.222.159.252,8443,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,6058 kB/s
+152.70.103.145,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,228 ms,5966 kB/s
+8.209.240.227,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,68 ms,5910 kB/s
+8.222.252.150,2053,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,5871 kB/s
+8.219.249.148,2096,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,5769 kB/s
+47.245.118.197,2096,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,5763 kB/s
+8.219.193.22,443,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,5683 kB/s
+8.222.130.137,2053,true,SIN,Asia Pacific,Singapore,SG,中转,202 ms,5635 kB/s
+47.245.113.12,2096,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,5577 kB/s
+8.219.13.143,2053,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,5540 kB/s
+8.222.224.162,2096,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,5479 kB/s
+8.222.219.252,8443,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,5362 kB/s
+168.138.206.109,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,228 ms,5194 kB/s
+8.222.249.190,2087,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,5079 kB/s
+8.219.240.141,2087,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,5020 kB/s
+8.210.146.108,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,33 ms,5011 kB/s
+8.219.78.1,8443,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,4964 kB/s
+8.222.130.137,2096,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,4936 kB/s
+8.222.164.209,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,4880 kB/s
+8.222.174.108,2087,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,4851 kB/s
+8.209.212.5,2083,true,LAX,North America,Los Angeles,US,中转,178 ms,4779 kB/s
+8.222.159.252,2087,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,4729 kB/s
+8.222.137.166,8443,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,4704 kB/s
+8.222.180.242,2053,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,4643 kB/s
+8.222.174.108,2083,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,4589 kB/s
+8.219.215.12,2083,true,SIN,Asia Pacific,Singapore,SG,中转,184 ms,4537 kB/s
+8.219.215.12,2053,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,4504 kB/s
+47.91.21.149,2087,true,LAX,North America,Los Angeles,US,中转,170 ms,4497 kB/s
+8.218.94.119,443,true,HKG,Asia Pacific,Hong Kong,HK,中转,33 ms,4440 kB/s
+132.145.125.165,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,129 ms,4425 kB/s
+47.245.105.224,8443,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,4417 kB/s
+8.219.222.8,2096,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,4308 kB/s
+47.91.16.198,2087,true,LAX,North America,Los Angeles,US,中转,170 ms,4308 kB/s
+8.222.145.164,2083,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,4208 kB/s
+8.219.249.38,2087,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,4104 kB/s
+8.222.129.245,2096,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,4088 kB/s
+47.245.52.153,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,67 ms,4045 kB/s
+47.245.84.124,2096,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,3985 kB/s
+8.219.249.38,2083,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,3931 kB/s
+8.219.200.145,8443,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,3883 kB/s
+8.222.168.234,8443,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,3802 kB/s
+8.219.56.205,2096,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,3800 kB/s
+8.219.228.30,2053,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,3789 kB/s
+47.245.105.224,2096,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,3733 kB/s
+8.222.162.45,2083,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,3724 kB/s
+8.222.167.8,2087,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,3699 kB/s
+8.219.240.141,8443,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,3664 kB/s
+8.219.228.30,2096,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,3645 kB/s
+8.219.153.44,8443,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,3632 kB/s
+8.222.136.196,2053,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,3623 kB/s
+8.222.184.198,2096,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,3580 kB/s
+8.219.193.202,2053,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,3578 kB/s
+8.222.184.198,2053,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,3572 kB/s
+138.2.7.72,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,125 ms,3566 kB/s
+8.222.129.245,2087,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,3530 kB/s
+8.219.193.22,2053,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,3487 kB/s
+47.91.3.179,2087,true,LAX,North America,Los Angeles,US,中转,171 ms,3487 kB/s
+8.222.168.234,2096,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,3461 kB/s
+47.245.102.156,8443,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,3437 kB/s
+8.219.98.13,2096,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,3419 kB/s
+8.219.248.170,2053,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,3367 kB/s
+8.219.240.141,2096,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,3363 kB/s
+152.70.123.225,8443,true,SJC,North America,San Jose,US,中转,153 ms,3361 kB/s
+8.219.222.8,2053,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,3354 kB/s
+193.122.125.174,2053,true,ICN,Asia Pacific,Seoul,KR,中转,74 ms,3354 kB/s
+8.222.134.170,2083,true,SIN,Asia Pacific,Singapore,SG,中转,216 ms,3350 kB/s
+8.222.147.203,8443,true,SIN,Asia Pacific,Singapore,SG,中转,229 ms,3350 kB/s
+165.1.79.60,8443,true,SJC,North America,San Jose,US,中转,169 ms,3315 kB/s
+47.245.102.156,2096,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,3285 kB/s
+8.222.197.251,2053,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,3275 kB/s
+8.222.144.219,8443,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,3249 kB/s
+150.230.115.183,443,true,FRA,Europe,Frankfurt,DE,隧道,245 ms,3134 kB/s
+8.222.237.131,8443,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,3126 kB/s
+8.219.183.31,8443,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,3104 kB/s
+8.219.210.64,2087,true,SIN,Asia Pacific,Singapore,SG,中转,183 ms,3099 kB/s
+8.219.77.91,8443,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,3092 kB/s
+8.222.182.10,8443,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,3080 kB/s
+150.230.99.142,443,true,NRT,Asia Pacific,Tokyo,JP,中转,137 ms,3079 kB/s
+8.222.167.147,2083,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,3073 kB/s
+8.219.236.8,2087,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,3056 kB/s
+8.219.236.8,2096,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,3035 kB/s
+8.219.82.177,2096,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,3028 kB/s
+8.219.213.84,2087,true,SIN,Asia Pacific,Singapore,SG,中转,183 ms,2989 kB/s
+8.222.168.24,2083,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,2965 kB/s
+192.9.135.122,8443,true,SJC,North America,San Jose,US,中转,152 ms,2956 kB/s
+8.219.248.170,2087,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,2928 kB/s
+192.18.139.229,8443,true,SJC,North America,San Jose,US,隧道,143 ms,2910 kB/s
+8.219.236.8,8443,true,SIN,Asia Pacific,Singapore,SG,中转,202 ms,2899 kB/s
+8.222.184.198,8443,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,2876 kB/s
+108.165.169.221,8443,true,YVR,North America,Vancouver,CA,隧道,131 ms,2855 kB/s
+47.243.230.93,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,36 ms,2850 kB/s
+8.222.133.247,8443,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,2816 kB/s
+8.222.144.50,8443,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,2805 kB/s
+47.245.94.144,8443,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,2803 kB/s
+130.162.181.198,443,true,FRA,Europe,Frankfurt,DE,隧道,258 ms,2751 kB/s
+8.219.145.245,2053,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,2742 kB/s
+8.222.164.209,8443,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,2708 kB/s
+47.74.3.2,2083,true,LAX,North America,Los Angeles,US,中转,182 ms,2693 kB/s
+8.219.228.186,8443,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,2678 kB/s
+8.210.66.190,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,37 ms,2633 kB/s
+138.2.128.124,443,true,AMS,Europe,Amsterdam,NL,隧道,247 ms,2605 kB/s
+129.146.17.9,443,true,LAX,North America,Los Angeles,US,中转,237 ms,2570 kB/s
+8.222.164.209,2053,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,2560 kB/s
+129.146.46.164,443,true,LAX,North America,Los Angeles,US,中转,267 ms,2546 kB/s
+47.245.113.12,2053,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,2507 kB/s
+131.186.27.112,2096,true,ICN,Asia Pacific,Seoul,KR,中转,74 ms,2502 kB/s
+8.222.227.191,8443,true,SIN,Asia Pacific,Singapore,SG,中转,232 ms,2488 kB/s
+8.222.129.245,2083,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,2448 kB/s
+158.101.133.129,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,127 ms,2440 kB/s
+158.101.94.15,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,128 ms,2325 kB/s
+8.219.249.148,8443,true,SIN,Asia Pacific,Singapore,SG,中转,217 ms,2323 kB/s
+8.222.249.190,8443,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,2272 kB/s
+8.219.101.72,2096,true,SIN,Asia Pacific,Singapore,SG,中转,188 ms,2207 kB/s
+192.9.246.112,8443,true,SJC,North America,San Jose,US,中转,194 ms,2204 kB/s
+47.91.15.247,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,136 ms,2203 kB/s
+8.219.228.30,2087,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,2199 kB/s
+141.148.228.221,443,true,FRA,Europe,Frankfurt,DE,隧道,239 ms,2162 kB/s
+8.210.66.190,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,36 ms,2151 kB/s
+47.245.8.156,2083,true,SIN,Asia Pacific,Singapore,SG,中转,148 ms,2140 kB/s
+8.222.184.198,2083,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,2135 kB/s
+143.47.179.9,443,true,FRA,Europe,Frankfurt,DE,隧道,249 ms,2133 kB/s
+8.222.150.197,2083,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,2117 kB/s
+129.153.213.8,443,true,LAX,North America,Los Angeles,US,中转,256 ms,2074 kB/s
+8.219.101.72,2053,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,2034 kB/s
+158.178.246.169,2053,true,SIN,Asia Pacific,Singapore,SG,中转,347 ms,2029 kB/s
+193.123.94.216,443,true,CDG,Europe,Paris,FR,中转,214 ms,2029 kB/s
+8.222.215.228,2053,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,2016 kB/s
+8.222.248.188,2083,true,SIN,Asia Pacific,Singapore,SG,中转,203 ms,1987 kB/s
+8.209.243.172,2087,true,LAX,North America,Los Angeles,US,中转,168 ms,1975 kB/s
+8.222.155.242,2087,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,1953 kB/s
+8.222.134.170,8443,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,1948 kB/s
+8.219.78.222,2096,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,1944 kB/s
+143.47.243.144,2053,true,LHR,Europe,London,GB,中转,256 ms,1932 kB/s
+8.222.137.166,2087,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,1905 kB/s
+8.222.129.32,2053,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,1881 kB/s
+8.222.137.178,2087,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,1867 kB/s
+168.138.184.64,8443,true,SIN,Asia Pacific,Singapore,SG,中转,331 ms,1845 kB/s
+47.245.52.153,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,70 ms,1839 kB/s
+8.219.77.222,2053,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,1837 kB/s
+158.101.133.129,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,131 ms,1827 kB/s
+8.222.167.8,8443,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,1800 kB/s
+8.222.144.219,2053,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,1790 kB/s
+47.245.37.12,8443,true,LAX,North America,Los Angeles,US,中转,178 ms,1790 kB/s
+47.91.19.249,2083,true,LAX,North America,Los Angeles,US,中转,175 ms,1781 kB/s
+192.18.138.99,443,true,SJC,North America,San Jose,US,隧道,193 ms,1776 kB/s
+146.56.151.87,2087,true,ICN,Asia Pacific,Seoul,KR,中转,75 ms,1770 kB/s
+141.148.239.155,443,true,FRA,Europe,Frankfurt,DE,隧道,269 ms,1697 kB/s
+8.222.181.139,443,true,SIN,Asia Pacific,Singapore,SG,隧道,185 ms,1685 kB/s
+47.74.3.2,2096,true,LAX,North America,Los Angeles,US,中转,186 ms,1682 kB/s
+8.222.145.110,2083,true,SIN,Asia Pacific,Singapore,SG,中转,183 ms,1629 kB/s
+8.222.128.131,8443,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,1614 kB/s
+8.219.240.141,2083,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,1589 kB/s
+8.222.168.24,2096,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,1580 kB/s
+168.138.46.67,443,true,KIX,Asia Pacific,Osaka,JP,中转,344 ms,1561 kB/s
+47.245.8.185,2096,true,LAX,North America,Los Angeles,US,中转,177 ms,1522 kB/s
+47.91.17.102,2083,true,LAX,North America,Los Angeles,US,中转,172 ms,1509 kB/s
+47.245.34.140,2096,true,LAX,North America,Los Angeles,US,中转,183 ms,1499 kB/s
+8.209.212.5,8443,true,LAX,North America,Los Angeles,US,中转,179 ms,1487 kB/s
+8.219.213.84,2083,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,1486 kB/s
+8.222.130.137,8443,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,1483 kB/s
+132.226.9.173,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,257 ms,1432 kB/s
+193.123.94.216,8443,true,MXP,Europe,Milan,IT,中转,257 ms,1417 kB/s
+8.219.163.195,2096,true,SIN,Asia Pacific,Singapore,SG,中转,184 ms,1409 kB/s
+131.186.37.49,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,232 ms,1402 kB/s
+158.101.89.33,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,125 ms,1356 kB/s
+140.238.40.136,2053,true,LAX,North America,Los Angeles,US,中转,233 ms,1355 kB/s
+8.219.215.12,2096,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,1275 kB/s
+8.222.168.234,2083,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,1271 kB/s
+152.70.234.188,443,true,LAX,North America,Los Angeles,US,中转,75 ms,1264 kB/s
+8.222.137.178,2083,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,1262 kB/s
+8.222.145.110,8443,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,1253 kB/s
+8.219.210.64,2096,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,1249 kB/s
+8.222.140.185,2053,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,1242 kB/s
+192.9.177.204,443,true,SYD,Oceania,Sydney,AU,中转,301 ms,1225 kB/s
+8.219.198.139,2053,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,1220 kB/s
+8.222.160.176,2083,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,1220 kB/s
+8.209.243.137,8443,true,LAX,North America,Los Angeles,US,中转,168 ms,1219 kB/s
+8.219.173.233,8443,true,SIN,Asia Pacific,Singapore,SG,中转,220 ms,1213 kB/s
+155.248.174.71,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,225 ms,1207 kB/s
+8.222.159.252,2053,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,1201 kB/s
+47.245.82.78,8443,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,1199 kB/s
+47.74.6.16,8443,true,LAX,North America,Los Angeles,US,中转,170 ms,1175 kB/s
+47.245.54.197,2096,true,LAX,North America,Los Angeles,US,中转,169 ms,1174 kB/s
+8.219.142.191,2096,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,1167 kB/s
+8.222.215.228,2087,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,1166 kB/s
+168.138.184.64,2083,true,SIN,Asia Pacific,Singapore,SG,中转,239 ms,1127 kB/s
+8.219.43.243,2053,true,SIN,Asia Pacific,Singapore,SG,中转,217 ms,1107 kB/s
+8.222.168.234,2087,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,1105 kB/s
+47.245.118.197,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,1068 kB/s
+8.222.211.124,8443,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,1066 kB/s
+8.222.150.197,2087,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,1055 kB/s
+141.147.166.189,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,136 ms,1045 kB/s
+8.218.126.53,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,35 ms,1028 kB/s
+47.74.3.2,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,137 ms,1010 kB/s
+129.151.134.185,443,true,HKG,Asia Pacific,Hong Kong,HK,隧道,219 ms,1004 kB/s
+8.222.150.197,8443,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,994 kB/s
+168.138.215.188,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,130 ms,993 kB/s
+8.222.144.50,2083,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,991 kB/s
+8.219.107.135,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,958 kB/s
+47.245.82.78,2096,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,957 kB/s
+8.222.244.192,2053,true,SIN,Asia Pacific,Singapore,SG,中转,216 ms,953 kB/s
+8.219.115.215,8443,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,940 kB/s
+47.91.15.247,8443,true,LAX,North America,Los Angeles,US,中转,169 ms,935 kB/s
+8.219.78.222,2053,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,920 kB/s
+8.219.228.186,2096,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,906 kB/s
+8.219.100.168,2053,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,906 kB/s
+47.74.18.121,2096,true,LAX,North America,Los Angeles,US,中转,169 ms,905 kB/s
+146.56.103.228,443,true,HKG,Asia Pacific,Hong Kong,HK,中转,118 ms,875 kB/s
+8.222.150.197,2053,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,874 kB/s
+47.245.84.124,8443,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,873 kB/s
+158.101.68.48,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,265 ms,861 kB/s
+8.222.227.191,2053,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,857 kB/s
+8.222.159.252,2083,true,SIN,Asia Pacific,Singapore,SG,中转,188 ms,847 kB/s
+8.222.128.131,2087,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,839 kB/s
+8.209.243.137,2096,true,LAX,North America,Los Angeles,US,中转,171 ms,835 kB/s
+8.222.237.131,2096,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,822 kB/s
+8.219.142.191,8443,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,814 kB/s
+8.222.224.163,8443,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,793 kB/s
+8.219.213.84,8443,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,788 kB/s
+8.222.180.86,2053,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,784 kB/s
+47.242.41.222,443,true,HKG,Asia Pacific,Hong Kong,HK,中转,33 ms,771 kB/s
+47.91.16.198,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,163 ms,743 kB/s
+8.219.215.12,8443,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,734 kB/s
+152.69.199.70,8443,true,KIX,Asia Pacific,Osaka,JP,中转,297 ms,729 kB/s
+130.162.211.207,8443,true,FRA,Europe,Frankfurt,DE,中转,251 ms,727 kB/s
+8.222.197.251,2087,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,723 kB/s
+138.2.12.32,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,296 ms,721 kB/s
+8.219.122.96,8443,true,SIN,Asia Pacific,Singapore,SG,中转,235 ms,720 kB/s
+8.222.146.222,2087,true,SIN,Asia Pacific,Singapore,SG,中转,216 ms,666 kB/s
+47.91.31.235,2096,true,LAX,North America,Los Angeles,US,中转,170 ms,663 kB/s
+8.219.217.81,2096,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,647 kB/s
+8.222.238.141,2053,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,640 kB/s
+158.101.149.122,2083,true,LAX,North America,Los Angeles,US,中转,336 ms,633 kB/s
+8.222.140.185,2083,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,628 kB/s
+8.219.99.169,2096,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,624 kB/s
+8.219.199.220,8443,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,618 kB/s
+8.222.238.141,2096,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,615 kB/s
+155.248.160.116,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,130 ms,601 kB/s
+8.210.146.108,2087,true,HKG,Asia Pacific,Hong Kong,HK,中转,32 ms,588 kB/s
+8.209.212.5,2087,true,LAX,North America,Los Angeles,US,中转,172 ms,588 kB/s
+8.222.225.193,443,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,587 kB/s
+8.222.155.242,8443,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,559 kB/s
+130.162.160.6,443,true,FRA,Europe,Frankfurt,DE,隧道,258 ms,559 kB/s
+8.219.82.177,2087,true,SIN,Asia Pacific,Singapore,SG,中转,203 ms,558 kB/s
+140.238.46.138,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,132 ms,550 kB/s
+8.222.175.78,2053,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,550 kB/s
+130.162.167.54,443,true,AMS,Europe,Amsterdam,NL,隧道,270 ms,541 kB/s
+141.148.246.100,443,true,MUC,Europe,Munich,DE,隧道,259 ms,534 kB/s
+8.222.197.251,2096,true,SIN,Asia Pacific,Singapore,SG,中转,216 ms,519 kB/s
+8.222.154.50,2083,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,518 kB/s
+8.222.159.252,2096,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,518 kB/s
+150.230.202.232,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,124 ms,518 kB/s
+8.219.100.168,2096,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,507 kB/s
+8.222.229.102,2087,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,506 kB/s
+8.222.252.150,2096,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,506 kB/s
+8.222.238.141,2083,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,490 kB/s
+8.222.154.50,2053,true,SIN,Asia Pacific,Singapore,SG,中转,216 ms,486 kB/s
+8.219.178.225,8443,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,483 kB/s
+8.209.243.172,2083,true,LAX,North America,Los Angeles,US,中转,169 ms,483 kB/s
+8.222.160.176,8443,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,482 kB/s
+8.219.213.84,2096,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,477 kB/s
+129.159.84.71,443,true,IAD,North America,Ashburn,US,中转,292 ms,475 kB/s
+8.219.215.12,2087,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,470 kB/s
+47.91.31.235,2083,true,LAX,North America,Los Angeles,US,中转,180 ms,465 kB/s
+8.222.133.247,2096,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,457 kB/s
+8.222.175.78,2087,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,445 kB/s
+8.219.248.170,2083,true,SIN,Asia Pacific,Singapore,SG,中转,217 ms,443 kB/s
+8.219.210.64,8443,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,435 kB/s
+8.222.160.61,8443,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,428 kB/s
+47.245.55.94,2087,true,LAX,North America,Los Angeles,US,中转,183 ms,420 kB/s
+8.222.180.86,2087,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,415 kB/s
+168.138.198.202,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,129 ms,408 kB/s
+8.219.139.13,2053,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,406 kB/s
+8.222.145.164,8443,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,406 kB/s
+141.147.169.131,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,128 ms,399 kB/s
+8.222.129.245,8443,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,398 kB/s
+138.2.25.122,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,220 ms,393 kB/s
+8.219.217.81,8443,true,SIN,Asia Pacific,Singapore,SG,中转,184 ms,382 kB/s
+158.101.146.160,2087,true,LAX,North America,Los Angeles,US,中转,368 ms,382 kB/s
+8.219.210.64,2053,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,371 kB/s
+8.219.173.233,2053,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,361 kB/s
+168.138.212.175,2053,true,LAX,North America,Los Angeles,US,中转,326 ms,360 kB/s
+131.186.47.223,2053,true,LAX,North America,Los Angeles,US,中转,357 ms,359 kB/s
+168.138.209.84,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,123 ms,358 kB/s
+8.222.168.155,2083,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,356 kB/s
+47.245.8.156,2087,true,LAX,North America,Los Angeles,US,中转,169 ms,345 kB/s
+131.186.58.151,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,195 ms,343 kB/s
+138.2.9.66,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,122 ms,337 kB/s
+47.245.82.78,2087,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,334 kB/s
+47.245.80.142,2096,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,329 kB/s
+8.222.136.247,2087,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,327 kB/s
+140.83.35.198,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,123 ms,320 kB/s
+8.222.134.170,2087,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,320 kB/s
+138.2.142.128,443,true,FRA,Europe,Frankfurt,DE,隧道,261 ms,316 kB/s
+8.219.122.55,8443,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,310 kB/s
+47.245.8.156,2096,true,LAX,North America,Los Angeles,US,中转,177 ms,310 kB/s
+141.147.16.152,8443,true,FRA,Europe,Frankfurt,DE,中转,241 ms,309 kB/s
+8.219.240.141,2053,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,307 kB/s
+132.145.120.118,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,127 ms,301 kB/s
+47.91.31.235,2087,true,LAX,North America,Los Angeles,US,中转,171 ms,297 kB/s
+8.219.79.74,2096,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,292 kB/s
+8.222.215.228,2096,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,285 kB/s
+168.138.209.244,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,133 ms,284 kB/s
+8.219.78.1,2096,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,284 kB/s
+8.209.243.172,8443,true,LAX,North America,Los Angeles,US,中转,175 ms,278 kB/s
+8.219.217.81,2087,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,276 kB/s
+47.245.4.22,2087,true,HKG,Asia Pacific,Hong Kong,HK,中转,146 ms,276 kB/s
+8.222.252.150,2087,true,SIN,Asia Pacific,Singapore,SG,中转,224 ms,274 kB/s
+8.222.229.22,2087,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,274 kB/s
+8.222.137.166,2053,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,272 kB/s
+8.222.229.22,2053,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,269 kB/s
+8.222.136.196,2087,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,268 kB/s
+8.222.129.32,2087,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,262 kB/s
+193.123.81.105,443,true,CDG,Europe,Paris,FR,中转,241 ms,262 kB/s
+8.219.129.38,2053,true,SIN,Asia Pacific,Singapore,SG,中转,227 ms,259 kB/s
+47.245.118.197,8443,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,256 kB/s
+8.222.167.147,8443,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,256 kB/s
+8.222.137.178,2053,true,SIN,Asia Pacific,Singapore,SG,中转,202 ms,256 kB/s
+141.147.35.114,443,true,CDG,Europe,Paris,FR,隧道,236 ms,254 kB/s
+8.222.147.203,2083,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,253 kB/s
+8.219.78.222,2087,true,SIN,Asia Pacific,Singapore,SG,中转,230 ms,252 kB/s
+8.222.237.131,2053,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,248 kB/s
+138.2.9.66,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,131 ms,246 kB/s
+141.147.167.44,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,246 ms,243 kB/s
+47.91.17.102,2087,true,LAX,North America,Los Angeles,US,中转,171 ms,233 kB/s
+47.245.113.12,8443,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,233 kB/s
+47.245.4.22,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,147 ms,230 kB/s
+8.219.213.133,8443,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,230 kB/s
+8.222.212.116,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,229 kB/s
+8.222.160.176,2087,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,226 kB/s
+158.101.90.190,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,247 ms,224 kB/s
+155.248.163.133,2087,true,LAX,North America,Los Angeles,US,中转,334 ms,220 kB/s
+8.222.190.225,2087,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,217 kB/s
+129.146.247.85,2053,true,LAX,North America,Los Angeles,US,中转,254 ms,216 kB/s
+8.222.130.137,2083,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,214 kB/s
+141.147.160.221,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,128 ms,211 kB/s
+8.222.227.191,2096,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,208 kB/s
+47.91.3.179,2083,true,LAX,North America,Los Angeles,US,中转,166 ms,208 kB/s
+47.245.52.153,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,71 ms,206 kB/s
+47.74.15.120,2083,true,SIN,Asia Pacific,Singapore,SG,中转,151 ms,205 kB/s
+47.245.113.12,2087,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,205 kB/s
+8.209.212.5,2096,true,LAX,North America,Los Angeles,US,中转,168 ms,202 kB/s
+8.222.160.61,2083,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,201 kB/s
+150.230.214.218,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,126 ms,198 kB/s
+8.222.162.45,2053,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,196 kB/s
+8.222.145.164,2096,true,SIN,Asia Pacific,Singapore,SG,中转,188 ms,195 kB/s
+8.222.129.32,2096,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,195 kB/s
+8.219.249.148,2053,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,194 kB/s
+8.222.167.8,2083,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,192 kB/s
+8.222.164.209,2083,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,188 kB/s
+131.186.37.69,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,245 ms,186 kB/s
+158.101.159.181,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,266 ms,186 kB/s
+168.138.198.202,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,122 ms,186 kB/s
+47.245.82.78,2053,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,185 kB/s
+8.209.212.5,2053,true,LAX,North America,Los Angeles,US,中转,176 ms,185 kB/s
+47.245.4.22,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,144 ms,185 kB/s
+8.222.229.22,2096,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,183 kB/s
+8.222.182.10,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,182 kB/s
+8.222.155.242,2083,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,182 kB/s
+8.222.160.61,2087,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,182 kB/s
+140.83.38.243,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,127 ms,181 kB/s
+8.219.60.130,2083,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,180 kB/s
+8.219.53.142,2096,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,176 kB/s
+47.74.4.47,2096,true,LAX,North America,Los Angeles,US,中转,175 ms,173 kB/s
+155.248.165.169,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,125 ms,173 kB/s
+8.222.168.24,8443,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,172 kB/s
+47.245.57.38,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,164 ms,168 kB/s
+8.209.240.227,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,67 ms,167 kB/s
+132.145.54.84,8443,true,LHR,Europe,London,GB,中转,244 ms,165 kB/s
+8.219.107.135,2096,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,164 kB/s
+8.210.146.108,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,35 ms,160 kB/s
+131.186.37.191,2087,true,HKG,Asia Pacific,Hong Kong,HK,中转,314 ms,160 kB/s
+8.219.193.22,8443,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,156 kB/s
+8.222.131.102,2083,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,153 kB/s
+141.147.174.7,8443,true,LAX,North America,Los Angeles,US,中转,238 ms,151 kB/s
+47.245.53.50,8443,true,LAX,North America,Los Angeles,US,中转,172 ms,151 kB/s
+8.222.190.225,2096,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,151 kB/s
+131.186.58.151,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,252 ms,151 kB/s
+47.245.8.156,8443,true,LAX,North America,Los Angeles,US,中转,168 ms,148 kB/s
+8.219.53.142,8443,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,147 kB/s
+8.222.128.131,2083,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,147 kB/s
+138.3.223.50,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,131 ms,147 kB/s
+8.219.248.170,8443,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,145 kB/s
+8.222.175.78,2096,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,144 kB/s
+47.74.15.120,2096,true,LAX,North America,Los Angeles,US,中转,177 ms,144 kB/s
+8.219.242.208,2083,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,140 kB/s
+47.245.12.38,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,157 ms,140 kB/s
+8.219.121.87,2096,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,140 kB/s
+8.222.154.227,2087,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,137 kB/s
+8.222.169.182,8443,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,137 kB/s
+8.222.136.196,8443,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,137 kB/s
+8.222.168.155,2087,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,134 kB/s
+8.222.184.198,2087,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,134 kB/s
+8.222.169.182,2087,true,SIN,Asia Pacific,Singapore,SG,中转,219 ms,132 kB/s
+8.222.224.163,2096,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,132 kB/s
+8.222.154.227,2053,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,131 kB/s
+8.222.129.32,2083,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,129 kB/s
+130.162.45.65,443,true,FRA,Europe,Frankfurt,DE,隧道,257 ms,129 kB/s
+8.219.163.195,8443,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,128 kB/s
+204.216.105.106,8443,true,YUL,North America,Montréal,CA,中转,221 ms,128 kB/s
+8.222.248.188,2053,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,124 kB/s
+8.222.190.225,2083,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,124 kB/s
+47.245.26.167,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,157 ms,122 kB/s
+8.222.229.102,2096,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,122 kB/s
+141.147.170.160,2053,true,LAX,North America,Los Angeles,US,中转,351 ms,121 kB/s
+8.222.252.150,8443,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,119 kB/s
+8.222.229.22,8443,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,118 kB/s
+155.248.163.133,8443,true,SIN,Asia Pacific,Singapore,SG,中转,316 ms,118 kB/s
+8.222.221.197,2096,true,SIN,Asia Pacific,Singapore,SG,中转,203 ms,118 kB/s
+8.219.145.245,8443,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,113 kB/s
+138.2.14.248,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,185 ms,112 kB/s
+8.219.183.31,2096,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,112 kB/s
+8.222.169.182,2083,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,112 kB/s
+47.74.3.2,2053,true,LAX,North America,Los Angeles,US,中转,175 ms,109 kB/s
+47.91.31.235,2053,true,LAX,North America,Los Angeles,US,中转,174 ms,109 kB/s
+8.209.243.172,2096,true,LAX,North America,Los Angeles,US,中转,172 ms,109 kB/s
+143.47.237.18,443,true,CDG,Europe,Paris,FR,隧道,242 ms,109 kB/s
+8.219.193.22,2096,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,109 kB/s
+158.101.155.158,2087,true,LAX,North America,Los Angeles,US,中转,373 ms,105 kB/s
+8.219.228.186,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,104 kB/s
+155.248.176.68,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,264 ms,102 kB/s
+152.67.214.73,443,true,ICN,Asia Pacific,Seoul,KR,中转,111 ms,100 kB/s
+8.222.182.10,2053,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,99 kB/s
+8.222.146.222,2053,true,SIN,Asia Pacific,Singapore,SG,中转,217 ms,99 kB/s
+8.209.243.172,2053,true,LAX,North America,Los Angeles,US,中转,176 ms,99 kB/s
+8.219.242.208,2087,true,SIN,Asia Pacific,Singapore,SG,中转,202 ms,97 kB/s
+138.2.6.252,8443,true,LAX,North America,Los Angeles,US,中转,243 ms,97 kB/s
+47.91.16.198,8443,true,LAX,North America,Los Angeles,US,中转,183 ms,97 kB/s
+47.91.19.249,2087,true,LAX,North America,Los Angeles,US,中转,169 ms,97 kB/s
+8.210.146.108,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,35 ms,93 kB/s
+8.219.83.201,2083,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,92 kB/s
+132.145.123.238,2087,true,LAX,North America,Los Angeles,US,中转,345 ms,90 kB/s
+8.222.219.252,2087,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,90 kB/s
+158.178.241.45,2083,true,SIN,Asia Pacific,Singapore,SG,中转,388 ms,89 kB/s
+47.245.8.156,2053,true,LAX,North America,Los Angeles,US,中转,169 ms,89 kB/s
+143.47.243.144,8443,true,LHR,Europe,London,GB,中转,252 ms,89 kB/s
+8.209.243.137,2087,true,LAX,North America,Los Angeles,US,中转,178 ms,88 kB/s
+168.138.196.237,2087,true,LAX,North America,Los Angeles,US,中转,349 ms,86 kB/s
+47.245.11.62,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,71 ms,86 kB/s
+8.219.139.13,2096,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,83 kB/s
+47.91.3.179,2053,true,LAX,North America,Los Angeles,US,中转,165 ms,83 kB/s
+132.226.5.21,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,266 ms,83 kB/s
+8.222.248.188,2096,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,80 kB/s
+47.245.30.65,2096,true,LAX,North America,Los Angeles,US,中转,167 ms,77 kB/s
+8.222.224.162,2087,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,77 kB/s
+8.219.142.229,8443,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,77 kB/s
+47.245.80.142,8443,true,SIN,Asia Pacific,Singapore,SG,中转,217 ms,77 kB/s
+8.222.136.247,8443,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,74 kB/s
+8.219.99.169,8443,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,73 kB/s
+8.222.188.56,2087,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,67 kB/s
+8.219.213.84,2053,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,67 kB/s
+144.24.85.158,443,true,ICN,Asia Pacific,Seoul,KR,中转,109 ms,66 kB/s
+158.101.65.24,2053,true,LAX,North America,Los Angeles,US,中转,236 ms,64 kB/s
+132.226.6.5,8443,true,LAX,North America,Los Angeles,US,中转,339 ms,64 kB/s
+8.219.222.8,8443,true,SIN,Asia Pacific,Singapore,SG,中转,232 ms,64 kB/s
+129.153.165.237,443,true,IAD,North America,Ashburn,US,中转,240 ms,61 kB/s
+8.219.78.1,2087,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,61 kB/s
+132.226.14.155,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,235 ms,61 kB/s
+47.91.31.235,8443,true,LAX,North America,Los Angeles,US,中转,178 ms,61 kB/s
+141.147.189.242,2087,true,LAX,North America,Los Angeles,US,中转,358 ms,58 kB/s
+158.101.169.13,8443,true,FRA,Europe,Frankfurt,DE,中转,251 ms,57 kB/s
+8.222.168.24,2053,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,57 kB/s
+8.222.155.242,2096,true,SIN,Asia Pacific,Singapore,SG,中转,233 ms,54 kB/s
+8.219.193.202,8443,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,54 kB/s
+47.89.191.155,443,true,IAD,North America,Ashburn,US,中转,290 ms,54 kB/s
+8.222.180.242,8443,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,54 kB/s
+8.222.212.116,8443,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,53 kB/s
+47.243.179.249,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,35 ms,52 kB/s
+158.101.215.45,8443,true,AMS,Europe,Amsterdam,NL,中转,262 ms,51 kB/s
+132.145.114.14,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,137 ms,51 kB/s
+131.186.62.26,2087,true,LAX,North America,Los Angeles,US,中转,236 ms,51 kB/s
+140.238.213.209,443,true,MXP,Europe,Milan,IT,中转,297 ms,48 kB/s
+158.101.175.51,8443,true,FRA,Europe,Frankfurt,DE,中转,265 ms,48 kB/s
+47.243.179.249,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,34 ms,48 kB/s
+47.243.179.249,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,37 ms,46 kB/s
+47.245.4.22,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,153 ms,45 kB/s
+144.24.169.81,8443,true,FRA,Europe,Frankfurt,DE,中转,250 ms,45 kB/s
+8.222.146.222,2083,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,45 kB/s
+8.222.224.162,2053,true,SIN,Asia Pacific,Singapore,SG,中转,221 ms,45 kB/s
+141.147.47.32,8443,true,FRA,Europe,Frankfurt,DE,中转,240 ms,45 kB/s
+47.243.179.249,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,37 ms,44 kB/s
+47.91.19.249,8443,true,LAX,North America,Los Angeles,US,中转,175 ms,43 kB/s
+8.222.227.191,2087,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,42 kB/s
+8.219.217.81,2053,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,42 kB/s
+8.222.221.109,8443,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,42 kB/s
+47.245.26.167,2096,true,LAX,North America,Los Angeles,US,中转,170 ms,41 kB/s
+8.222.128.131,2053,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,40 kB/s
+8.222.211.124,2087,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,39 kB/s
+141.147.40.44,8443,true,FRA,Europe,Frankfurt,DE,中转,243 ms,39 kB/s
+47.245.57.38,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,147 ms,37 kB/s
+8.222.154.50,8443,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,35 kB/s
+47.74.6.16,2083,true,LAX,North America,Los Angeles,US,中转,172 ms,33 kB/s
+152.70.56.209,8443,true,AMS,Europe,Amsterdam,NL,中转,293 ms,32 kB/s
+47.74.6.55,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,71 ms,30 kB/s
+47.245.118.197,2083,true,SIN,Asia Pacific,Singapore,SG,中转,223 ms,29 kB/s
+47.245.59.167,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,69 ms,29 kB/s
+47.245.59.167,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,64 ms,29 kB/s
+47.74.6.55,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,68 ms,29 kB/s
+168.138.200.159,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,227 ms,29 kB/s
+47.245.55.202,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,69 ms,28 kB/s
+8.222.137.178,8443,true,SIN,Asia Pacific,Singapore,SG,中转,184 ms,26 kB/s
+158.101.94.15,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,131 ms,26 kB/s
+129.146.248.140,443,true,LAX,North America,Los Angeles,US,中转,248 ms,25 kB/s
+158.101.206.70,2053,true,AMS,Europe,Amsterdam,NL,中转,266 ms,25 kB/s
+8.222.164.44,8443,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,25 kB/s
+47.91.17.102,8443,true,LAX,North America,Los Angeles,US,中转,179 ms,22 kB/s
+130.61.107.238,8443,true,FRA,Europe,Frankfurt,DE,中转,251 ms,22 kB/s
+8.222.136.247,2083,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,21 kB/s
+130.61.109.6,2096,true,FRA,Europe,Frankfurt,DE,中转,240 ms,21 kB/s
+129.146.169.119,443,true,LAX,North America,Los Angeles,US,隧道,236 ms,21 kB/s
+138.2.26.80,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,119 ms,18 kB/s
+141.147.61.116,8443,true,FRA,Europe,Frankfurt,DE,中转,251 ms,18 kB/s
+138.2.26.80,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,126 ms,18 kB/s
+141.147.40.44,2053,true,FRA,Europe,Frankfurt,DE,中转,246 ms,18 kB/s
+47.245.59.167,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,76 ms,17 kB/s
+8.222.211.124,2053,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,17 kB/s
+168.138.203.39,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,215 ms,17 kB/s
+150.230.114.232,443,true,FRA,Europe,Frankfurt,DE,隧道,267 ms,17 kB/s
+138.2.11.227,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,237 ms,16 kB/s
+47.74.6.55,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,66 ms,14 kB/s
+47.74.6.55,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,71 ms,14 kB/s
+47.74.6.55,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,68 ms,14 kB/s
+144.21.32.193,2053,true,AMS,Europe,Amsterdam,NL,中转,248 ms,13 kB/s
+47.245.59.167,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,65 ms,13 kB/s
+8.222.190.225,2053,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,13 kB/s
+144.24.169.81,2053,true,FRA,Europe,Frankfurt,DE,中转,255 ms,13 kB/s
+132.226.0.181,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,125 ms,12 kB/s
+8.222.171.236,2053,true,SIN,Asia Pacific,Singapore,SG,中转,188 ms,11 kB/s
+8.219.208.104,2053,true,SIN,Asia Pacific,Singapore,SG,中转,230 ms,11 kB/s
+132.226.8.9,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,246 ms,11 kB/s
+8.222.145.43,8443,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,11 kB/s
+8.219.210.214,2053,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,11 kB/s
+8.219.56.244,2053,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,11 kB/s
+8.222.212.255,8443,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,11 kB/s
+8.219.208.104,2087,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,11 kB/s
+8.222.212.255,2053,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,11 kB/s
+8.219.54.152,2053,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,11 kB/s
+8.219.56.244,2096,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,11 kB/s
+8.219.110.41,2053,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,11 kB/s
+8.219.123.11,2083,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,11 kB/s
+8.219.110.248,8443,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,11 kB/s
+8.222.199.55,2087,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,11 kB/s
+144.21.32.193,2087,true,AMS,Europe,Amsterdam,NL,中转,277 ms,11 kB/s
+144.24.173.250,2053,true,FRA,Europe,Frankfurt,DE,中转,257 ms,11 kB/s
+8.222.156.205,2087,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,11 kB/s
+8.222.156.205,2083,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,11 kB/s
+8.219.210.214,2083,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,11 kB/s
+8.219.216.234,2087,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,10 kB/s
+8.219.251.207,2083,true,SIN,Asia Pacific,Singapore,SG,中转,214 ms,10 kB/s
+8.219.102.123,2087,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,10 kB/s
+143.47.182.56,2053,true,AMS,Europe,Amsterdam,NL,中转,266 ms,10 kB/s
+8.219.239.79,2096,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,10 kB/s
+8.222.145.43,2087,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,10 kB/s
+8.219.251.207,2096,true,SIN,Asia Pacific,Singapore,SG,中转,184 ms,10 kB/s
+8.222.156.205,8443,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,10 kB/s
+8.219.208.104,8443,true,SIN,Asia Pacific,Singapore,SG,中转,184 ms,10 kB/s
+8.219.210.214,2096,true,SIN,Asia Pacific,Singapore,SG,中转,216 ms,10 kB/s
+8.219.102.123,2053,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,10 kB/s
+8.219.239.79,2053,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,10 kB/s
+8.222.199.55,2053,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,10 kB/s
+8.219.210.214,8443,true,SIN,Asia Pacific,Singapore,SG,中转,218 ms,10 kB/s
+8.219.216.234,2096,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,10 kB/s
+8.219.251.207,2053,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,10 kB/s
+8.222.171.236,8443,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,10 kB/s
+8.219.251.207,2087,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,10 kB/s
+8.219.210.214,2087,true,SIN,Asia Pacific,Singapore,SG,中转,216 ms,10 kB/s
+8.219.251.207,8443,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,10 kB/s
+8.222.211.124,2096,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,9 kB/s
+47.91.1.38,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,69 ms,9 kB/s
+138.2.26.80,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,126 ms,8 kB/s
+152.70.102.142,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,127 ms,7 kB/s
+8.219.51.227,2053,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,7 kB/s
+158.101.136.128,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,261 ms,7 kB/s
+8.219.56.244,2087,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,6 kB/s
+8.222.131.102,2053,true,SIN,Asia Pacific,Singapore,SG,中转,199 ms,6 kB/s
+8.219.51.227,2096,true,SIN,Asia Pacific,Singapore,SG,中转,194 ms,6 kB/s
+152.70.102.142,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,126 ms,6 kB/s
+158.101.175.51,2053,true,FRA,Europe,Frankfurt,DE,中转,239 ms,6 kB/s
+141.147.168.13,8443,true,LAX,North America,Los Angeles,US,中转,240 ms,6 kB/s
+141.147.61.116,2053,true,FRA,Europe,Frankfurt,DE,中转,248 ms,5 kB/s
+138.2.6.248,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,121 ms,5 kB/s
+8.219.123.11,8443,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,5 kB/s
+150.230.108.82,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,129 ms,5 kB/s
+8.222.212.255,2096,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,4 kB/s
+140.238.203.213,443,true,SYD,Oceania,Sydney,AU,中转,295 ms,3 kB/s
+8.222.221.197,8443,true,SIN,Asia Pacific,Singapore,SG,中转,188 ms,3 kB/s
+8.222.219.252,2083,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,3 kB/s
+158.101.169.13,2053,true,FRA,Europe,Frankfurt,DE,中转,258 ms,3 kB/s
+47.245.59.167,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,69 ms,3 kB/s
+8.222.171.236,2087,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,2 kB/s
+8.222.156.205,2053,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,2 kB/s
+47.243.62.196,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,36 ms,1 kB/s
+8.222.221.109,2096,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,1 kB/s
+138.2.25.122,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,122 ms,0 kB/s
+47.245.12.38,2083,true,LAX,North America,Los Angeles,US,中转,175 ms,0 kB/s
+141.144.204.27,8443,true,AMS,Europe,Amsterdam,NL,中转,255 ms,0 kB/s
+8.209.242.25,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,70 ms,0 kB/s
+8.222.221.197,2053,true,SIN,Asia Pacific,Singapore,SG,中转,208 ms,0 kB/s
+8.222.219.252,2053,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,0 kB/s
+47.74.36.154,2083,true,LAX,North America,Los Angeles,US,中转,173 ms,0 kB/s
+8.222.212.116,2096,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,0 kB/s
+47.74.6.157,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,71 ms,0 kB/s
+47.74.13.200,2053,true,LAX,North America,Los Angeles,US,中转,178 ms,0 kB/s
+8.209.200.73,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,69 ms,0 kB/s
+8.222.128.131,2096,true,SIN,Asia Pacific,Singapore,SG,中转,215 ms,0 kB/s
+8.222.133.247,2087,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,0 kB/s
+47.245.38.233,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,71 ms,0 kB/s
+47.245.34.140,2083,true,LAX,North America,Los Angeles,US,中转,171 ms,0 kB/s
+158.101.133.129,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,230 ms,0 kB/s
+132.145.115.17,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,124 ms,0 kB/s
+8.219.249.148,2087,true,SIN,Asia Pacific,Singapore,SG,中转,195 ms,0 kB/s
+8.209.243.137,2053,true,LAX,North America,Los Angeles,US,中转,174 ms,0 kB/s
+152.70.106.185,8443,true,LAX,North America,Los Angeles,US,中转,353 ms,0 kB/s
+47.91.15.247,2087,true,HKG,Asia Pacific,Hong Kong,HK,中转,134 ms,0 kB/s
+158.101.136.221,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,235 ms,0 kB/s
+47.245.55.235,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,71 ms,0 kB/s
+150.230.202.132,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,189 ms,0 kB/s
+150.230.105.53,8443,true,LAX,North America,Los Angeles,US,中转,330 ms,0 kB/s
+158.101.158.238,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,230 ms,0 kB/s
+47.245.11.62,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,73 ms,0 kB/s
+150.230.213.65,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,129 ms,0 kB/s
+47.245.42.210,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,152 ms,0 kB/s
+132.145.81.117,443,true,ICN,Asia Pacific,Seoul,KR,隧道,76 ms,0 kB/s
+47.245.41.84,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,68 ms,0 kB/s
+8.219.228.186,2053,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,0 kB/s
+152.70.103.145,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,137 ms,0 kB/s
+138.3.215.11,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,183 ms,0 kB/s
+158.101.155.115,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,233 ms,0 kB/s
+150.136.241.40,8443,true,IAD,North America,Ashburn,US,中转,467 ms,0 kB/s
+141.147.100.246,443,true,FRA,Europe,Frankfurt,DE,隧道,239 ms,0 kB/s
+150.230.202.232,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,235 ms,0 kB/s
+129.159.251.84,443,true,FRA,Europe,Frankfurt,DE,隧道,247 ms,0 kB/s
+150.230.249.48,443,true,HKG,Asia Pacific,Hong Kong,HK,中转,111 ms,0 kB/s
+192.18.139.41,443,true,SJC,North America,San Jose,US,中转,143 ms,0 kB/s
+152.70.237.179,443,true,NRT,Asia Pacific,Tokyo,JP,中转,73 ms,0 kB/s
+150.230.105.183,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,226 ms,0 kB/s
+141.147.147.28,443,true,KIX,Asia Pacific,Osaka,JP,隧道,300 ms,0 kB/s
+158.101.155.158,2096,true,LAX,North America,Los Angeles,US,中转,331 ms,0 kB/s
+150.230.44.131,8443,true,SJC,North America,San Jose,US,隧道,191 ms,0 kB/s
+138.3.208.9,8443,true,LAX,North America,Los Angeles,US,中转,244 ms,0 kB/s
+168.138.213.210,8443,true,LAX,North America,Los Angeles,US,中转,230 ms,0 kB/s
+138.3.222.135,443,true,LAX,North America,Los Angeles,US,中转,124 ms,0 kB/s
+47.91.16.198,2083,true,LAX,North America,Los Angeles,US,中转,175 ms,0 kB/s
+132.145.114.14,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,124 ms,0 kB/s
+158.101.149.52,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,247 ms,0 kB/s
+131.186.35.189,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,227 ms,0 kB/s
+158.101.68.48,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,230 ms,0 kB/s
+47.91.19.249,2053,true,LAX,North America,Los Angeles,US,中转,178 ms,0 kB/s
+158.101.155.158,8443,true,LAX,North America,Los Angeles,US,中转,352 ms,0 kB/s
+8.222.199.55,2096,true,SIN,Asia Pacific,Singapore,SG,中转,192 ms,0 kB/s
+150.136.61.148,443,true,IAD,North America,Ashburn,US,隧道,204 ms,0 kB/s
+158.101.159.181,2053,true,LAX,North America,Los Angeles,US,中转,235 ms,0 kB/s
+150.230.202.132,2096,true,LAX,North America,Los Angeles,US,中转,365 ms,0 kB/s
+138.2.11.227,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,234 ms,0 kB/s
+158.101.137.74,8443,true,LAX,North America,Los Angeles,US,中转,357 ms,0 kB/s
+158.101.146.165,8443,true,LAX,North America,Los Angeles,US,中转,349 ms,0 kB/s
+47.91.16.198,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,157 ms,0 kB/s
+138.3.215.11,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,282 ms,0 kB/s
+193.123.60.92,443,true,FRA,Europe,Frankfurt,DE,隧道,242 ms,0 kB/s
+168.138.184.64,2096,true,SIN,Asia Pacific,Singapore,SG,中转,344 ms,0 kB/s
+168.138.15.75,443,true,MEL,Oceania,Melbourne,AU,中转,307 ms,0 kB/s
+168.138.213.210,2053,true,LAX,North America,Los Angeles,US,中转,337 ms,0 kB/s
+193.122.197.111,443,true,IAD,North America,Ashburn,US,中转,220 ms,0 kB/s
+47.245.8.185,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,155 ms,0 kB/s
+155.248.165.169,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,245 ms,0 kB/s
+155.248.162.233,8443,true,NRT,Asia Pacific,Tokyo,JP,中转,236 ms,0 kB/s
+150.230.99.173,2053,true,LAX,North America,Los Angeles,US,中转,364 ms,0 kB/s
+8.218.126.53,443,true,HKG,Asia Pacific,Hong Kong,HK,中转,33 ms,0 kB/s
+131.186.35.189,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,260 ms,0 kB/s
+132.145.120.115,2096,true,LAX,North America,Los Angeles,US,中转,340 ms,0 kB/s
+130.61.109.6,2053,true,FRA,Europe,Frankfurt,DE,中转,252 ms,0 kB/s
+132.145.120.182,2053,true,LAX,North America,Los Angeles,US,中转,237 ms,0 kB/s
+158.101.139.42,2096,true,LAX,North America,Los Angeles,US,中转,230 ms,0 kB/s
+132.226.5.21,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,252 ms,0 kB/s
+132.145.120.118,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,255 ms,0 kB/s
+132.226.0.181,2053,true,NRT,Asia Pacific,Tokyo,JP,中转,126 ms,0 kB/s
+150.230.212.9,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,127 ms,0 kB/s
+168.138.209.244,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,228 ms,0 kB/s
+158.101.90.190,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,126 ms,0 kB/s
+158.101.95.113,2087,true,SIN,Asia Pacific,Singapore,SG,中转,341 ms,0 kB/s
+144.24.173.250,2096,true,FRA,Europe,Frankfurt,DE,中转,236 ms,0 kB/s
+158.101.81.4,2087,true,LAX,North America,Los Angeles,US,中转,358 ms,0 kB/s
+152.70.102.142,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,251 ms,0 kB/s
+158.101.95.113,2096,true,LAX,North America,Los Angeles,US,中转,332 ms,0 kB/s
+158.101.137.74,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,280 ms,0 kB/s
+158.101.146.160,2083,true,LAX,North America,Los Angeles,US,中转,337 ms,0 kB/s
+158.101.136.128,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,230 ms,0 kB/s
+47.245.41.84,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,69 ms,0 kB/s
+168.138.185.28,2083,true,SIN,Asia Pacific,Singapore,SG,中转,281 ms,0 kB/s
+168.138.206.109,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,240 ms,0 kB/s
+131.186.63.184,2087,true,LAX,North America,Los Angeles,US,中转,349 ms,0 kB/s
+138.2.27.113,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,124 ms,0 kB/s
+131.186.45.88,2096,true,LAX,North America,Los Angeles,US,中转,331 ms,0 kB/s
+8.222.224.162,8443,true,SIN,Asia Pacific,Singapore,SG,中转,191 ms,0 kB/s
+138.3.216.181,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,140 ms,0 kB/s
+158.101.149.52,2087,true,NRT,Asia Pacific,Tokyo,JP,中转,242 ms,0 kB/s
+132.226.5.21,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,229 ms,0 kB/s
+8.219.102.123,2096,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,0 kB/s
+8.222.199.55,8443,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,0 kB/s
+138.2.11.227,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,122 ms,0 kB/s
+138.2.15.8,2083,true,NRT,Asia Pacific,Tokyo,JP,中转,135 ms,0 kB/s
+132.145.91.171,8443,true,HKG,Asia Pacific,Hong Kong,HK,隧道,74 ms,0 kB/s
+152.70.103.145,2096,true,NRT,Asia Pacific,Tokyo,JP,中转,121 ms,0 kB/s
+8.218.126.53,8443,true,HKG,Asia Pacific,Hong Kong,HK,中转,34 ms,0 kB/s
+152.70.102.124,2096,true,HKG,Asia Pacific,Hong Kong,HK,中转,280 ms,0 kB/s
+141.147.189.242,2096,true,LAX,North America,Los Angeles,US,中转,237 ms,0 kB/s
