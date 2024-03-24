@@ -1,0 +1,28 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,国家,IP类型,网络延迟,下载速度
+8.210.66.190,2087,true,HKG,Asia Pacific,Hong Kong,HK,中转,34 ms,13928 kB/s
+8.210.66.190,2053,true,HKG,Asia Pacific,Hong Kong,HK,中转,36 ms,11295 kB/s
+8.222.131.102,2087,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,10749 kB/s
+8.219.142.229,2083,true,SIN,Asia Pacific,Singapore,SG,中转,207 ms,10727 kB/s
+8.222.147.203,2087,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,10709 kB/s
+8.222.180.86,2083,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,10565 kB/s
+8.219.242.208,2096,true,SIN,Asia Pacific,Singapore,SG,中转,190 ms,10463 kB/s
+8.222.244.192,8443,true,SIN,Asia Pacific,Singapore,SG,中转,186 ms,10210 kB/s
+8.219.77.222,2087,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,10191 kB/s
+8.219.142.191,2087,true,SIN,Asia Pacific,Singapore,SG,中转,206 ms,9920 kB/s
+8.222.229.102,2053,true,SIN,Asia Pacific,Singapore,SG,中转,201 ms,9690 kB/s
+8.222.147.203,2053,true,SIN,Asia Pacific,Singapore,SG,中转,198 ms,9635 kB/s
+8.222.154.227,8443,true,SIN,Asia Pacific,Singapore,SG,中转,187 ms,9623 kB/s
+8.222.205.210,443,true,SIN,Asia Pacific,Singapore,SG,中转,183 ms,9618 kB/s
+8.222.144.219,2087,true,SIN,Asia Pacific,Singapore,SG,中转,204 ms,9592 kB/s
+8.219.122.55,2053,true,SIN,Asia Pacific,Singapore,SG,中转,209 ms,9537 kB/s
+8.222.240.47,2096,true,SIN,Asia Pacific,Singapore,SG,中转,189 ms,9439 kB/s
+8.222.144.219,2083,true,SIN,Asia Pacific,Singapore,SG,中转,205 ms,9342 kB/s
+47.245.94.144,2096,true,SIN,Asia Pacific,Singapore,SG,中转,193 ms,9327 kB/s
+8.219.199.220,2096,true,SIN,Asia Pacific,Singapore,SG,中转,219 ms,9198 kB/s
+8.210.66.190,2083,true,HKG,Asia Pacific,Hong Kong,HK,中转,38 ms,8743 kB/s
+8.219.199.220,2053,true,SIN,Asia Pacific,Singapore,SG,中转,213 ms,8672 kB/s
+8.222.249.190,2083,true,SIN,Asia Pacific,Singapore,SG,中转,200 ms,8614 kB/s
+8.219.122.96,2053,true,SIN,Asia Pacific,Singapore,SG,中转,196 ms,8593 kB/s
+8.219.60.130,2096,true,SIN,Asia Pacific,Singapore,SG,中转,212 ms,8587 kB/s
+8.219.228.30,2083,true,SIN,Asia Pacific,Singapore,SG,中转,185 ms,8520 kB/s
+8.219.53.142,2053,true,SIN,Asia Pacific,Singapore,SG,中转,197 ms,8421 kB/s
